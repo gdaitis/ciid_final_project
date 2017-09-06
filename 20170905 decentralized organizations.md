@@ -1,7 +1,9 @@
-#Decentralized organizations
+# Decentralized organizations
+
 *2017.09.05*
 
-##The Future of Organization
+## The Future of Organization
+
 [https://medium.com/deep-code/the-future-of-organization-b26219e5fc95](https://medium.com/deep-code/the-future-of-organization-b26219e5fc95)
 
 * But as the number of participants expands, the “tribe-level” of organization begins to fail. There is too much information for everyone to keep track of all at once and this gives rise to the whole suite of collective action and “tragedy of the commons” problems studied in academics. Consensus decison-making becomes increasingly burdensome and tribal instincts begin to break the organization into several often-competing sub-tribes rather than a smoothly unified whole.
@@ -15,7 +17,8 @@
 	* **Internal alignment** — The protocol should promote the alignment of agents within the DCO. The reputation scoring mechanism must be designed to enhance the reputation (and thus the impact) of agents that further the interests of the community. By adjusting the reputation according to the quality of evaluations, the agents whose evaluations are the most aligned with the community’s values acquire a stronger level of influence within the DCO’s evaluation system.
 	* **Diversification** — In addition to encouraging the internal alignment of agents within a DCO, the protocol should also encourage diversification at the external level, by facilitating the exploration of alternatives features (e.g. spin-offs or ‘forks’), which might prove to be the most suitable to a particular context.
 
-##Decentralized Autonomous Organization (DAO) Explained
+## Decentralized Autonomous Organization (DAO) Explained
+
 [https://www.youtube.com/watch?v=kS37l2CbmD4](https://www.youtube.com/watch?v=kS37l2CbmD4)
 
 * Pros:
@@ -25,29 +28,34 @@
 	* Transparency may lead to the lack of competitive advantage: no secret plans. Open source example: anyone can fork your competitive advantage.
 	* Cutting the leadership off may be an issue: not every stakeholder want to manage the company, some of them just want to trust the leadership.
 
-##An Ethereum Platform For Decentralized Autonomous Organizations, Jack du Rose, Colony
+## An Ethereum Platform For Decentralized Autonomous Organizations, Jack du Rose, Colony
+
 [https://www.youtube.com/watch?v=cYwaGQg1mYY](https://www.youtube.com/watch?v=cYwaGQg1mYY)
 
 * Jack du Rose is cofounder of Colony, an Ethereum platform for decentralised organisations. Colony seeks to make building an organisation online as easy as creating a Facebook group by allowing people from all over the world to collaborate on projects without the need for formal hierarchy or trust.
 
-##Colony Moves Organizations, Companies onto the Ethereum Blockchain
+## Colony Moves Organizations, Companies onto the Ethereum Blockchain
+
 [https://bitcoinmagazine.com/articles/colony-moves-organizations-companies-ethereum-blockchain/](https://bitcoinmagazine.com/articles/colony-moves-organizations-companies-ethereum-blockchain/)
 
 * Think of Colony as the merger of Trello and Upwork, but running on a blockchain. Colony essentially brings the organization and human capital together onto a decentralized and transparent platform, and adds a monetary system that rewards freelancers and contributors alike based on their contributions to the success of the organization.
 
-##What is the Difference Between Public and Permissioned Blockchains?
+## What is the Difference Between Public and Permissioned Blockchains?
+
 [https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains/](https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains/)
 
 * A blockchain developer may choose to make the system of record available for everyone to read, but they may not wish to allow anyone to be a node, serving the network’s security, transaction verification or mining. It’s a mix-and-match situation that is reflected in the various ways entrepreneurs are experimenting with the technology.
 
-##Understanding Semi-private Blockchain Applications
+## Understanding Semi-private Blockchain Applications
+
 [https://medium.com/@wmougayar/understanding-semi-private-blockchain-applications-6bbe91fc3596](https://medium.com/@wmougayar/understanding-semi-private-blockchain-applications-6bbe91fc3596)
 
 * In contrast to public chain applications where anyone can participate, and private chain applications (consortium or not) where participants are tightly managed, semi-private chain-based applications are run by a single company who grants access to any user who qualifies, and they typically target business-to-business users.
 
 ---
 
-##CphEthereum Slack channel
+## CphEthereum Slack channel
+
 So, I've joined CphEthereum channel and has a short conversation:
 
 ![](https://i.imgur.com/K8NZEB1.png)
@@ -56,14 +64,16 @@ So, I've joined CphEthereum channel and has a short conversation:
 * [https://aragon.one/]()
 * [https://vote.district0x.io/]()
 
-##Colony Community Slack channel
+## Colony Community Slack channel
+
 Another interesting conversation from the same question as above:
 
 ![](https://i.imgur.com/Nkdswlq.png)
 
 ---
 
-##Interview with Aram Armstrong
+## Interview with Aram Armstrong
+
 Aram Armstrong is our Final Project supervisor, helping us to navigate the process. I had a short interview with him today, and here are several random notes from the conversation we had.
 
 * Network effect is key

@@ -1,7 +1,9 @@
-#Reading day
+# Reading day
+
 *2017.09.04.*
 
-##Ever wonder how Bitcoin (and other cryptocurrencies) actually work?
+## Ever wonder how Bitcoin (and other cryptocurrencies) actually work?
+
 [https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be](https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be)
 
 * ![](http://i.imgur.com/8isrcNB.png)
@@ -9,7 +11,8 @@
 	* Ledge explanation example: paying for lunch between friends - exchanging cash every time is not convenient, so you create a list (ledger) that is public and has history of payments.
 	* The **history of transactions IS the currency**
 
-##Estonia could offer ‘estcoins’ to e-residents
+## Estonia could offer ‘estcoins’ to e-residents
+
 [https://medium.com/e-residency-blog/estonia-could-offer-estcoins-to-e-residents-a3a5a5d3c894](https://medium.com/e-residency-blog/estonia-could-offer-estcoins-to-e-residents-a3a5a5d3c894)
 
 * Fortunately, the secure digital identities used by e-residents (as well as citizens and residents of Estonia) are now the ideal mechanism for securely trading crypto assets in a trusted and transparent digital environment. The tokens can not be counterfeited and the government oversight means they can not be used for illegal activities.
@@ -18,17 +21,20 @@ We already know that many people become e-residents simply because they are fans
 A government-supported ICO would give more people a bigger stake in the future of our country and provide not just investment, but also more expertise and ideas to help us grow exponentially.
 * In time, estcoins could also be accepted as payment for both public and private services and eventually function as a viable currency used globally. By using our APIs, companies and even other countries could accept these same tokens as payment. It will also be possible to build more functions on top of the estcoins and use them for more purposes, such as smart contracts and notary services.
 
-##THE INITIAL COIN OFFERING, THE BITCOIN-Y STOCK THAT'S NOT STOCK—BUT DEFINITELY A BIG DEAL
+## THE INITIAL COIN OFFERING, THE BITCOIN-Y STOCK THAT'S NOT STOCK—BUT DEFINITELY A BIG DEAL
+
 [https://www.wired.com/2017/03/initial-coin-offering-stock-thats-not-stock/](https://www.wired.com/2017/03/initial-coin-offering-stock-thats-not-stock/)
 
 * Yes, they call it an ICO, and over the last 14 months, more than 60 startups, open source projects, and ragtag online communities used this method to raise over $250 million for their own business efforts.
 
-##Citi Speaks: State-Backed Cryptocurrency Key to Blockchain Adoption
+## Citi Speaks: State-Backed Cryptocurrency Key to Blockchain Adoption
+
 [https://www.coindesk.com/citi-speaks-state-backed-cryptocurrency-key-blockchain-adoption/?utm_content=buffer1511a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer](https://www.coindesk.com/citi-speaks-state-backed-cryptocurrency-key-blockchain-adoption/?utm_content=buffer1511a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 * While cryptocurrencies have so far only been issued via decentralized blockchain protocols and in private corporate pre-sales, she argued that a central bank issuance would not only enhance the liquidity of new assets, but also give rise to entirely new markets.
 
-##Should You Do an ICO?
+## Should You Do an ICO?
+
 [https://www.youtube.com/watch?v=v8iOuEzFrrk](https://www.youtube.com/watch?v=v8iOuEzFrrk)
 
 * Does the actual token have a utility? Does your company fall apart without this token?
@@ -38,13 +44,15 @@ A government-supported ICO would give more people a bigger stake in the future o
 * If your business model is speculation - you are on a downward spiral.
 * "Always ask yourself a question: what are people hiring you for?"
 
-##Why Blockchain Needs Design
+## Why Blockchain Needs Design
+
 [https://www.fastcodesign.com/90136657/why-blockchain-needs-designers](https://www.fastcodesign.com/90136657/why-blockchain-needs-designers)
 
 * As blockchain makes its way into the mainstream, it will be up to designers to temper its technical complexity with usability–in short, blockchain will need interfaces. IBM is in the early stages of creating them.
 * But while blockchain collects all that information in one place, and ensures that everything is accurate, it doesn’t make parsing or organizing that information very easy. That’s Sukaviriya and her team’s job–to highlight the relevant information to the right person when they need it. “I don’t think that blockchain is what the users have in mind really,” Sukaviriya says. “They don’t really understand at the deep level what it will do. But what is important is the ability to get to the information that they can trust.”
 
-##The Bitcoin Model for Crowdfunding
+## The Bitcoin Model for Crowdfunding
+
 [https://startupboy.com/2014/03/09/the-bitcoin-model-for-crowdfunding/](https://startupboy.com/2014/03/09/the-bitcoin-model-for-crowdfunding/)
 
 * The Bitcoin model for crowdfunding dispenses with everything except the software:
@@ -55,14 +63,16 @@ A government-supported ICO would give more people a bigger stake in the future o
 	* As network usage increases, so does equity value and revenue. 
 	* Anyone can buy Appcoins, anywhere, anytime, anonymously. Ship your code, ring the IPO bell.
 
-##Certificates, Reputation, and the Blockchain
+## Certificates, Reputation, and the Blockchain
+
 [https://medium.com/mit-media-lab/certificates-reputation-and-the-blockchain-aee03622426f](https://medium.com/mit-media-lab/certificates-reputation-and-the-blockchain-aee03622426f)
 
 * Using the blockchain and strong cryptography, it is now possible to create a certification infrastructure that puts us in control of the full record of our achievements and accomplishments. It will allow us to share a digital degree with an employer while giving the employer complete trust that the degree was in fact issued to the person presenting it.
 * In fact you can think of reputation as a type of currency for social capital, rather than financial capital.
 * Issuing a certificate is relatively simple: we create a digital file that contains some basic information such as the name of the recipient, the name of the issuer (MIT Media Lab), an issue date, etc. We then sign the contents of the certificate using a private key to which only the Media Lab has access, and append that signature to the certificate itself. Next we create a hash, which is a short string that can be used to verify that nobody has tampered with the content of the certificate. And finally we use our private key again to create a record on the Bitcoin blockchain that states we issued a certain certificate to a certain person on a certain date. Our system makes it possible to verify who a certificate was issued to, by whom, and validate the content of the certificate itself.
 
-##Blockchain Tokens and the dawn of the Decentralized Business Model
+## Blockchain Tokens and the dawn of the Decentralized Business Model
+
 [https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
 
 * ...There are a few key components to these tokens:
@@ -76,7 +86,8 @@ A government-supported ICO would give more people a bigger stake in the future o
 * You give people partial ownership of the network. Just like equity in a startup, it is more valuable to join the network early because you get more ownership. Decentralized applications do this by paying their contributors in their token. And there is potential for that token (partial ownership of the network) to be worth more in the future. **This is equivalent to being a miner in the early days of Bitcoin.**
 * The growth in the number of tokens is likely to mimic the growth of apps in the App Store: it will start slow and then grow exponentially.![](https://cdn-images-1.medium.com/max/1600/0*s9NVCWOtcQGb5355.)
 
-##How to Raise Money on a Blockchain with a Token
+## How to Raise Money on a Blockchain with a Token
+
 [https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa)
 
 * How do we identify the network effect in our project?

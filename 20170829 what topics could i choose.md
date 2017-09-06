@@ -1,4 +1,5 @@
-#What topics could I choose?
+# What topics could I choose?
+
 *2017.08.29*
 
 I want my final project be a transformative experience in terms of both personal and professional lives. Also, I believe, it is a unique opportunity to express myself as a problem solver, double check where my strengths and weaknesses are, and improve on those weaknesses. I strongly believe this will be a great challenge of keeping focused, staying in the zone for as long as possible, managing ambiguity, self-doubt and confidence. 
