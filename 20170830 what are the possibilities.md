@@ -29,7 +29,7 @@ Today, I've talked to [Iskra](https://www.linkedin.com/in/iskra-u%C5%A1%C4%87uml
 * **How would media look if we had no boundaries? If we had no accountability? What if everything is being accounted for?**
 
 
-###A few general takeaways:
+### A few general takeaways:
 
 * Ask yourself - **what problems I would like to solve?**
 * Observe the **behaviours** - they may lead towards areas of possibilities.

@@ -74,3 +74,28 @@ I found this proposal to be an interesting framework in search of the optimal wa
 
 ### Venture
 ![](https://i.imgur.com/9XkJ2qE.jpg)
+
+## Future steps
+
+There are several decisions I would have to make in order to proceed to prototyping as soon as possible.
+
+### Select one concept
+It would be cool to develop the whole organization model, but reality is that I will probably not have enough time to achieve that. Thus I'll have to narrow now to one: consultancy, venture or own product.
+
+- Which concept should I choose?
+- How could I simplify it?
+- Which parts need more development?
+
+### Prototype within the class
+I believe I have enough technical knowledge to create a working prototype that would actually run on blockchain. Thus I want to create a simple webpage that would allow a group of people to participate within a simulation of such concept of a decentralized organization.
+
+- Is prototyping in such way a good idea?
+- How could I involve more people, not just the class?
+- How long should the prototype run?
+
+### Hide the blockchain behind UX
+I honestly believe that current hype around the technology is full of technical jargon because it is run by technical people. Nowadays, one does not have to understand what HTTP is or how it works in order to use or even create apps on it. I think the same should happen with blockchain technologies.
+
+- Is this a good idea?
+- When should I stop concept prototyping and move towards UI/UX prototyping?
+- What aspect and from what perspective should I expose the concept? A designer within the organization? A regular coinholder? Else?
