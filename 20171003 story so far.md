@@ -1,11 +1,11 @@
-#The story so far
+# The story so far
 
 *2017.10.03.*
 
-##The beginning
+## The beginning
 Initially I was interested in three quite different topics that I would've liked to explore: music industry, news media and personal finance/investment. Having talked with people that are way smarter and more experienced than I am, I immediately ruled out the thoughts around music and news. However, everybody noted that investment as a topic would/could lead towards interesting challenges little people in design world try to solve.
 
-##The problem of CIID
+## The problem of CIID
 One of those people smarter than me was Stiven, the director of CIID's Innovation Studios. He suggested that the final project should fulfil one of the following criteria:
 
 - Have a specific purpose ("I want to land a job at...")
@@ -20,7 +20,7 @@ In other words, Stiven was suggesting me to take a look at decentralized organiz
 
 *At this point I was reluctant to take such concrete direction without having done any more exploration around the topic.* However, the conversation really sparked my interest about the technology and the possible scenarios it could lead towards.
 
-##"Small - big" relationship
+## "Small - big" relationship
 Calle, my final project advisor, is another person who is smarter than me. He also happens to work at the same building, so I try to meet him as much as possible, as long as he doesn't start avoiding me in the hallway.
 
 I expressed concerns about going too narrow into a specific technology at that certain point in time of the process, and Calle helped me to zoom out a little bit. He told me that I should *park* the thoughts around Blockchain and decentralized organizations for a while, and take a look at how small parts of systems (may) affect the whole system overall.
@@ -29,7 +29,7 @@ I expressed concerns about going too narrow into a specific technology at that c
 
 ![](https://i.imgur.com/PX4Vqqe.jpg)
 
-##How might we...?
+## How might we...?
 Having taken Calle's idea, I have decided to facilitate my HMW session with my classmates around such relationships. I was seeking to get sparks for new ideas rather than ideas themselves. 
 
 To avoid being very abstract, I decided to ask my HMW questions about the same types of relationships, but in different contexts:
@@ -54,23 +54,23 @@ This led to receiving all kinds of ideas from my classmates. I have selected the
 Also, at the end of the day, Aram sent me an interesting idea on slack:
 ![](https://i.imgur.com/hfCxCUw.png)
 
-##DAO and the Digital Product Studio
+## DAO and the Digital Product Studio
 A lot of ideas led towards where I was starting from: solutions that would be enabled by cryptocurrencies. One of such frameworks is called DAO (Decentralized Autonomous Organization), enabling people to create decentralized networks of experts that focus on creating certain type of value. 
 
 When reading about that, I have also remembered a very popular article, called [State of the Digial Nation](https://blog.marvelapp.com/state-of-the-digital-nation-2016/#the-digital-product-studio), proposing that, in order to survide in the future, design agencies should transform themselves into Digital Product Studios, which would have three roles: **consultancy, venture and own product development**.
 
 ![](https://i.imgur.com/RhT7NaJ.jpg)
 
-##Reinventing the Design Agency
+## Reinventing the Design Agency
 
 I found this proposal to be an interesting framework in search of the optimal way to create a decentralized design agency, ran by design professionals themselves. Having researched some scenarios of Ethereum's Smart Contracts ([https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416)), I've come up with possible scenarios of how all of the three functions of the organization could work in a decentralized way.
 
-###Own product development
+### Own product development
 ![](https://i.imgur.com/sNNBNTU.jpg)
 ![](https://i.imgur.com/A3GupFQ.jpg)
 
-###Consultancy
+### Consultancy
 ![](https://i.imgur.com/KGDtAAK.jpg)
 
-###Venture
+### Venture
 ![](https://i.imgur.com/9XkJ2qE.jpg)
