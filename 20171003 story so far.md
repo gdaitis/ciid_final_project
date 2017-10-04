@@ -65,6 +65,9 @@ When reading about that, I have also remembered a very popular article, called [
 
 I found this proposal to be an interesting framework in search of the optimal way to create a decentralized design agency, ran by design professionals themselves. Having researched some scenarios of Ethereum's Smart Contracts ([https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416)), I've come up with possible scenarios of how all of the three functions of the organization could work in a decentralized way.
 
+### How do we make money?
+![](https://i.imgur.com/M2ihKbS.jpg)
+
 ### Own product development
 ![](https://i.imgur.com/sNNBNTU.jpg)
 ![](https://i.imgur.com/A3GupFQ.jpg)
