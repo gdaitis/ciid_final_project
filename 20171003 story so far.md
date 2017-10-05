@@ -49,7 +49,7 @@ To avoid being very abstract, I decided to ask my HMW questions about the same t
 
 This led to receiving all kinds of ideas from my classmates. I have selected the ones I liked and found interesting to think about in the context of decentralized organizations:
 
-![](https://i.imgur.com/bwFt3Y6.jpg)
+![](https://i.imgur.com/aH1T0Hj.jpg)
 
 Also, at the end of the day, Aram sent me an interesting idea on slack:
 ![](https://i.imgur.com/hfCxCUw.png)
