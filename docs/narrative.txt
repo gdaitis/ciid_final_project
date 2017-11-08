@@ -1,0 +1,44 @@
+10% of startups and 3% of patents make money. But most of us don't event do our best to find them.
+	Within 3 years, 92% of startups failed. Of those who failed 74%, failed due to premature scaling. https://s3.amazonaws.com/startupcompass-public/StartupGenomeReport2_Why_Startups_Fail_v2.pdf
+
+
+
+branch ideas
+
+invest: big guys + crowdfunding
+
+roles:
+	idea creators
+	investors
+
+list of ideas
+
+documentation problem
+
+solving the documentation problem
+
+The incentive to document your project is that is goes through this "machine" workflow
+
+it becomes a platform, connecting ideas with investors efficiently
+
+Started with the documentation problem, but when solving that problem, I also solved the VC, value capturing problem. Things changed.
+
+But this person does not want to be an employee, and she doesn't want to be an entrepreneur too
+
+She wants to stay close to the CIID network
+
+Fast forward 2 years, when the solution is finally working. Demonstrate that state of it.
+
+Fancy words:
+	Like crowdfunding
+	Blockchain
+	Smart contracts
+	Ethereum
+
+Curated by creative techs, designers, investors, people who know their stuff, thus the idea, which goes through, has this 'guarantee' on it. Not random.
+
+Transparency is core feature
+
+Water as analogy.
+
+VIP kickstarter, leveraging the uniqueness of the network of the organization
