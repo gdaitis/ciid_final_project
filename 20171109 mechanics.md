@@ -27,7 +27,7 @@ The roles are not mutually exclusive, thus one person can be all of the above.
 
 The Professionals are people with certain skill and capabilities. These people can be hired to do a job according to their skills: coding, illustration, UI/UX, etc. **The incentive for these people is to make money in exchange for their skills.**
 
-Founders are people who initiate projects with a story / reason / goal / concept / etc. These people initially have own 100% of the project, but are willing to give some of that away in exchange for services or other contribution. **The incentive for these people is to develop projects in order to get revenue or to sell the project to a different owner.**
+Founders are people who initiate projects with a story / reason / goal / concept / etc. These people initially own 100% of the project, but are willing to give some of that away in exchange for services or other contribution. **The incentive for these people is to develop projects in order to get revenue or to sell the project to a different owner.**
 
 Investors are people who are willing to take over certain part of project's share they're interested in, in exchange for agreed monetary value. **The incentive for these people is to receive part of the revenue the project generates, or sell the share of the project for a higher price.**
 
